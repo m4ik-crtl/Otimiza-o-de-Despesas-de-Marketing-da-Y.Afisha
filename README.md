@@ -23,4 +23,5 @@ Este projeto tem como objetivo identificar oportunidades de redução de custos 
 
 ## 👨‍💻 Autor
 **Maikon Silva** — [Linkedln](https://www.linkedin.com/in/maikon-silva-457b98181/)
-🔗 [Link para o projeto completo](COLOCAR_LINK_AQUI)
+
+🔗 [Link para o projeto completo](https://github.com/m4ik-crtl/Otimiza-o-de-Despesas-de-Marketing-da-Y.Afisha/blob/main/An%C3%A1lise%20de%20Neg%C3%B3cios.ipynb)
