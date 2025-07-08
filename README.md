@@ -1,22 +1,26 @@
 # Otimização de Despesas de Marketing da Y.Afisha
 
-Este projeto tem como objetivo analisar dados de marketing da empresa Y.Afisha a fim de otimizar despesas e aumentar o retorno sobre investimento. A análise aborda dados de produtos, vendas e campanhas, culminando em recomendações estratégicas.
+Este projeto tem como objetivo identificar oportunidades de redução de custos e otimização de campanhas de marketing da empresa fictícia Y.Afisha, a partir de uma análise detalhada de dados de produtos, vendas e canais de aquisição.
 
-## Estrutura do Projeto
-1. **Importação e Preparação dos Dados**
-2. **Análise de Produto**
-3. **Análise de Vendas**
-4. **Análise de Marketing**
+## 📂 Estrutura
+1. **Importação e Preparação dos Dados**  
+2. **Análise Exploratória de Produto**  
+3. **Análise de Vendas por Canal**  
+4. **Comparativo de ROI entre Campanhas**  
 5. **Conclusões e Recomendações**
 
-## Ferramentas Utilizadas
-- Python (Pandas, Matplotlib)
-- Jupyter Notebook
-- Análise exploratória e visualização de dados
+## 🛠️ Ferramentas e Bibliotecas
+- Python (pandas, matplotlib, seaborn)  
+- Jupyter Notebook  
+- Análise Exploratória de Dados (EDA)  
+- Visualização de desempenho de marketing
 
-## Resultados Esperados
-- Insights sobre performance de canais de marketing
-- Identificação de produtos com maior e menor performance
-- Recomendações para realocação orçamentária
+## 🎯 Resultados
+- Identificação dos produtos mais e menos rentáveis  
+- Mapeamento de canais com melhor e pior retorno  
+- Recomendações de realocação orçamentária  
+- Próximos passos para otimização contínua  
 
-📎 [Link para o notebook](COLOCAR_LINK_AQUI)
+## 👨‍💻 Autor
+**Maikon Silva** — [Linkedln](https://www.linkedin.com/in/maikon-silva-457b98181/)
+🔗 [Link para o projeto completo](COLOCAR_LINK_AQUI)
